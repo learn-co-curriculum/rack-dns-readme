@@ -1,4 +1,4 @@
-# DNS
+# Domain Name System
 
 ### What is DNS?
 
