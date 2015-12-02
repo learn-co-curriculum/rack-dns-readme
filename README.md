@@ -11,3 +11,5 @@ In short, DNS is very much like the US Postal Service. If you are on `google.com
   - your computer sends the query to the nearest DNS caching server (this is the equivalent of the nearest Post Office after you've dropped mail in the mail slot)
   - When your query arrives at the caching server, there's a good chance it knows the address of your query if it has received that query before - if it doesn't, then it sends you on to another caching server
   - When your query arrives at a caching server that knows the address, then the caching server will send the requested data back to your local computer.
+
+<a href='https://learn.co/lessons/rack-dns-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
